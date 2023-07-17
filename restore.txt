@@ -1,5 +1,6 @@
 test restore new filejl`
 git restore --staged new file
+user:lei
 test restore
 last
 song
