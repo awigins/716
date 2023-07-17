@@ -3,3 +3,4 @@ git restore --staged new file
 test restore
 last
 song
+test:wq
