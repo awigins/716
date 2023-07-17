@@ -1,12 +1,8 @@
 test restore new filejl`
 git restore --staged new file
-user:lei
+user:name:fanglei
 test restore
 last
 song
 test:wq 保存退出
-<<<<<<< HEAD
-this by bengdi
-=======
-this is writed by github
->>>>>>> a4814d066419fa9a0cdae80f1e3a4a3bb6645dc1
+this by bengdi and github
