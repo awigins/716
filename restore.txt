@@ -2,3 +2,4 @@ test restore new filejl`
 git restore --staged new file
 test restore
 last
+song
